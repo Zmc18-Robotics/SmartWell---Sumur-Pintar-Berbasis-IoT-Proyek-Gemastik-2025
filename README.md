@@ -8,7 +8,7 @@ Pictures :
 
 Here you can see the pictures
 
-What you need to make? Here the components you need :
+What do you need to make this? Here the components you need :
 - Esp32 x1
 - Push Button x2
 - Ultrasonic Sensor x1
@@ -20,7 +20,7 @@ What you need to make? Here the components you need :
 
 this project really powerful, because you can monitoring the well, see how much water left, lock the well system, Realtime Monitoring, alert system, and more
 
-Here this project is one of my project in Gemastik 2025 ( unfortunately I lose 😿, but its ok ) 
+Here this project is one of my project in Gemastik 2025 ( unfortunately I lost 😿, but its ok ) 
 
 
 here the files and the code you can see... yeah I am so late to upload this to my repository😅
