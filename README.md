@@ -16,6 +16,7 @@ What you need to make? Here the components you need :
 - Relay x1
 - Small Pump x1
 - 18650 Battery x1
+- Stick x?
 
 this project really powerful, because you can monitoring the well, see how much water left, lock the well system, Realtime Monitoring, alert system, and more
 
