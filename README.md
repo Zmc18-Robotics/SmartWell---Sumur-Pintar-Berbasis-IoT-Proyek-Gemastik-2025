@@ -22,7 +22,7 @@ What do you need to make this? Here the components you need :
 - 18650 Battery x1
 - Stick x?
 
-this project really powerful, because you can monitoring the well, see how much water left, lock the well system, Realtime Monitoring, alert system, and more
+this project really powerful, because you can monitoring the well, see how much water left, lock the well system, realtime monitoring, alert system, and more
 
 Here this project is one of my project in Gemastik 2025 ( unfortunately I lost 😿, but its ok ) 
 
