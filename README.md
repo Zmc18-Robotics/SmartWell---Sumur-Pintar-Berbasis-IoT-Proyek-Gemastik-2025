@@ -1,10 +1,14 @@
 # SmartWell
 Sumur Pintar Berbasis IoT - IoT Smart Well
 
+---
+
 Pictures :
+
 ![WhatsApp Image 2025-11-22 at 01 32 57](https://github.com/user-attachments/assets/e0b894e4-f391-42e4-8db2-9d81d374ca0e)
 ![WhatsApp Image 2025-11-22 at 01 32 58](https://github.com/user-attachments/assets/e052ec84-1bff-4ff2-b3b2-b65d41151546)
 
+---
 
 Here you can see the pictures
 
